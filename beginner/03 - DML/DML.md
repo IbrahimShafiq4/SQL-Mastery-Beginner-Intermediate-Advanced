@@ -167,5 +167,3 @@ TRUNCATE TABLE persons;
 | **TRUNCATE** | Remove all rows quickly | ✅                 | ❌           |
 
 ---
-
-If you want, I can also make a PDF version of this README. Just tell me 😄
