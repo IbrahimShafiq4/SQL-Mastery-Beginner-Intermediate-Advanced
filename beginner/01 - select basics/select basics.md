@@ -394,5 +394,3 @@ ORDER BY order_date DESC;
 ```
 
 ---
-
-## End of README
