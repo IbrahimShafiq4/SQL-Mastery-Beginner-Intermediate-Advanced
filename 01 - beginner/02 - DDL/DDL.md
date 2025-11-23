@@ -1,6 +1,6 @@
 # SQL DDL (Data Definition Language) – Quick Reference
 
-This README covers the core SQL DDL commands: **CREATE**, **ALTER**, and **DROP**, along with explanations and examples based on your code.
+This README covers the core SQL DDL commands: **CREATE**, **ALTER**, and **DROP**, along with explanations and examples.
 
 ---
 
