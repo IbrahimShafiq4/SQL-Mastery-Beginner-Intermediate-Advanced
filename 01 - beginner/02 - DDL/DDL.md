@@ -94,5 +94,3 @@ DROP TABLE persons;
 | `ALTER TABLE ADD`         | Adds new columns     |
 | `ALTER TABLE DROP COLUMN` | Removes columns      |
 | `DROP TABLE`              | Deletes a full table |
-
-If you want to extend this README with **constraints**, **foreign keys**, **data types**, **table relationships**, or **best practices**, just tell me!
