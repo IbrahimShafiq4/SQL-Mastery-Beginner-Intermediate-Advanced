@@ -219,10 +219,3 @@ WHERE first_name LIKE '__r%';
 * The `WHERE` clause is one of the **most important** parts of SQL.
 * Almost every SELECT, UPDATE, or DELETE query relies on it.
 * Mastering these operators will make you accurate and efficient with data filtering.
-
-If you'd like, I can also create:
-
-* Practice exercises + answer key
-* A PDF version of this file
-* A visual cheat sheet
-* Code examples folder (`where-operators.sql`)
