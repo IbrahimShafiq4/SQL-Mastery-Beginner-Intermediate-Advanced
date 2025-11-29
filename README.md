@@ -194,5 +194,3 @@ If you want to improve examples, add new topics, or fix mistakes, feel free to c
 If this repo helps you, give it a **star** ⭐ — it motivates future content and improvements.
 
 ---
-
-If you want an additional **PDF version**, **GitHub badges**, or even a **logo design** for the repo, just ask!
